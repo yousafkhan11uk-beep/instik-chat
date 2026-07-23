@@ -1,0 +1,6 @@
+{
+  "name": "Mok Social",
+  "description": "Modern, premium, professional online social media platform with stories, feeds, real-time chat, audio/video calls, global discover, offline media library, and admin control.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
